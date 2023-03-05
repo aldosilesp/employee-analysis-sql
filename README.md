@@ -4,7 +4,7 @@ This is the analisis of the employee database of a company.
 
 The process included:
 
-1) Modeling the data
+1) Modelling the data
 2) Creating the schema
 3) Importing the data
 4) Analyzing the data
